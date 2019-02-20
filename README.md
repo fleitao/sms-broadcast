@@ -1,8 +1,8 @@
 # sms-broadcast-rc
 Simple SMS broadcast service with self self sign-up (Node.JS, Python and Restcomm)
 
-// Author: 
-// Filipe Leitão (contact@fleitao.org)
+Author: 
+Filipe Leitão (contact@fleitao.org)
 
 # Description:
 This is an SMS Broadcast/Echo service with a service subscriber list to which users can interact using SMS. 
