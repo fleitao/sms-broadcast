@@ -5,7 +5,7 @@ var request = require('request');
 
 // ============================== Restcomm Account Details ============================== 
 
-  var rc_server         = "cloud.restcomm.com";
+  var rc_server         = "<<my_organisation>>.restcomm.com";
   var rc_restCommBase   = "restcomm";
   var rc_accountBase    = "2012-04-24/Accounts";
   var rc_accountSid     = "<<your_restcomm_account_sid>>";
